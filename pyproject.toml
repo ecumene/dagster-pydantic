@@ -1,0 +1,20 @@
+[tool.poetry]
+authors = ["Mitchell Hynes <ecumene@users.noreply.github.com>"]
+description = ""
+name = "dagster-pydantic"
+packages = [{include = "dagster_pydantic"}]
+readme = "README.md"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dagster = "^1.1.7"
+pydantic = "^1.10.2"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^0.991"
+pytest = "^7.2.0"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core"]
