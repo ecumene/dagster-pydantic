@@ -71,7 +71,7 @@ $ just test # This only runs pytest
 I've only had my hands on Dagster for a few weeks. I love the declarative
 framework, and the focus on flexibility + developer velocity. I am a bit iffy on
 the pricing and what's offered in the "Standard plan", but otherwise I'm so
-satisfied with this project this far.
+impressed by the open-source project.
 
 That being said, I'm a noobie. This is my first integration and also my first
 Python module, so feel free to drop an issue if there's something I'm missing.
