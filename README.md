@@ -37,7 +37,7 @@ def get_model():
 
 This code will result in:
 
-![A typechecking error in the dagit UI](./screenshot.png)
+![A typechecking error in the dagit UI](./screenshot1.png)
 
 Without this integration, you wouldn't see that typechecking error in the
 console and the next op will consume the error.
