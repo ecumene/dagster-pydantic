@@ -1,6 +1,7 @@
 .mypy_cache
 .pytest_cache
 .venv
+dist/
 **/*.pyc
 **/*.pyo
 **/__pycache__

@@ -1,5 +1,7 @@
 # dagster-pydantic
 
+[![PyPI Version](https://img.shields.io/pypi/v/dagster-pydantic.svg)](https://pypi.python.org/pypi/dagster-pydantic)
+
 This is a naive approach for using Pydantic types for Dagster Type Checking. The
 package `dagster_pydantic` includes a really simple validation factory. Pydanitc
 is not built as a data validation library, it's actually a great parser and an
